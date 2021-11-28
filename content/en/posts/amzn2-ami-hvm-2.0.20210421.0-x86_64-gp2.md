@@ -2,7 +2,7 @@
 title: Amazon Linux 2 AMI 2.0.20210421.0 x86_64 HVM gp2
 date: 2021-04-24T22:51:03.000ZZ
 categories:
- - AMI
+ - AWS
 ---
 
 eu-west-2: ami-093d2024466a862c1
