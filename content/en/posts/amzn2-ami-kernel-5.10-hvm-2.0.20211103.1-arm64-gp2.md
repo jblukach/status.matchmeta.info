@@ -1,6 +1,6 @@
 ---
 title: Amazon Linux 2 LTS Arm64 Kernel 5.10 AMI 2.0.20211103.1 arm64 HVM gp2
-date: 2021-11-14T19:54:28.000ZZ
+date: 2021-11-14T19:54:28.000Z
 categories:
  - AWS
 ---
