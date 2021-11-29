@@ -1,4 +1,3 @@
-baseURL = "status.matchmeta.info"
 languageCode = "en-us"
 title = "MatchMeta.Info - AMI Artifact Pipeline Status"
 theme = "yinyang"
