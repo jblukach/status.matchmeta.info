@@ -29,5 +29,9 @@ name = "Pipeline"
 link = "https://github.com/jblukach/matchmeta"
 
 [[params.socials]]
-name = "RSS"
+name = "RSS Feed"
 link = "/index.xml"
+
+[[params.socials]]
+name = "Subscription"
+link = "https://jblukach.gumroad.com/l/AMZNHASH"
